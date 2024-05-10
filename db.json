@@ -1,9 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "projects": [
+        {
+            "id": 0,
+            "name": "portfolio",
+            "description": "Portfólio profissional desenvolvido com ReactJS",
+            "techs": ["HTML", "CSS", "JavaScript", "React", "StyledComponents"],
+            "imageUrl": "../img/projects/prints/portfolio.png",
+            "codeUrl": "https://github.com/maxsueldev/portfolio",
+            "homepage": "https://portfolio-maxsuel.vercel.app/"
+        },
+        {
+            "id": 1,
+            "name": "githubAPIProfile",
+            "description": "Consumo da API do GitHub com busca e filtro de projetos",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "../img/projects/prints/githubAPIProfile.png",
+            "codeUrl": "https://github.com/maxsueldev/githubAPIProfile",
+            "homepage": "https://github-api-profile-max.vercel.app/"
+        },
+        {
+            "id": 2,
+            "name": "escolaCreative",
+            "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+            "imageUrl": "../img/projects/prints/escolaCreative.png",
+            "codeUrl": "https://github.com/maxsueldev/escolaCreative",
+            "homepage": "https://escola-creative-max.vercel.app/"
+        },
+        {
+            "id": 3,
+            "name": "relogioDigital",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "../img/projects/prints/relogioDigital.png",
+            "codeUrl": "https://github.com/maxsueldev/relogioDigital",
+            "homepage": "https://relogio-digital-max.vercel.app /"
+        },
+        {
+            "id": 4,
+            "name": "dominoJS",
+            "techs": ["JavaScript"],
+            "imageUrl": "../img/projects/prints/dominoJS.png",
+            "codeUrl": "https://github.com/maxsueldev/dominoJS"
+        },
+        {
+            "id": 5,
+            "name": "CalculatorJS",
+            "description": "CalculatorJS é uma calculadora que usa elementos da DOM para realizar cálculos básicos, assim como uma calculadora de bolso comum, usando HTML, CSS e JavaScript ",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "../img/projects/prints/CalculatorJS.png",
+            "codeUrl": "https://github.com/maxsueldev/CalculatorJS",
+            "homepage": "https://calculator-js-max.vercel.app/"
+        }
+    ]
 }
