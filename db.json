@@ -103,6 +103,113 @@
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "",
             "codeUrl": "https://github.com/maxsueldev/photographer-portfolio"
+        },
+        {
+            "id": 13,
+            "name": "contagemRegressiva",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/contagemRegressiva"
+        },
+        {
+            "id": 14,
+            "name": "parallax-effect",
+            "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/parallax-effect",
+            "homepage": "https://parallax-effect-max.vercel.app"
+        },
+        {
+            "id": 15,
+            "name": "Movies-Info",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/Movies-Info",
+            "homepage": "https://movies-info-max.vercel.app",
+        },
+        {
+            "id": 16,
+            "name": "modal-login-sem-bootstrap",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/modal-login-sem-bootstrap"
+        },
+        {
+            "id": 17,
+            "name": "maxJobs-Form",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/maxJobs-Form"
+        },
+        {
+            "id": 18,
+            "name": "virtualKeyboard",
+            "techs": ["HTML", "CSS", "JavaScript", "SASS"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/virtualKeyboard"
+        },
+        {
+            "id": 19,
+            "name": "frutas-frutos",
+            "techs": ["HTML", "CSS"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/frutas-frutos",
+            "homepage": "https://frutas-frutos-max.vercel.app"
+        },
+        {
+            "id": 20,
+            "name": "AluraSPA",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/AluraSPA",
+            "homepage": "https://alura-spa-max.vercel.app"
+        },
+        {
+            "id": 21,
+            "name": "barbearia-alura",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/barbearia-alura",
+            "homepage": "https://barbearia-alura-max.vercel.app"
+        },
+        {
+            "id": 22,
+            "name": "List-Of-Popular-Games",
+            "description": "Projeto para prática do uso de manipulação de objetos e da DOM, com dados estáticos",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/List-Of-Popular-Games"
+        },
+        {
+            "id": 23,
+            "name": "bikcraft",
+            "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/bikcraft"
+        },
+        {
+            "id": 24,
+            "name": "randomUsersAPI",
+            "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB"
+            "techs": ["JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB"
+        },
+        {
+            "id": 25,
+            "name": "REST-CRUD-API-with-NodeJS-Express-MongoDB",
+            "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)"
+            "techs": ["JavaScript", "Express", "MongoDB"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/randomUsersAPI"
+        },
+        {
+            "id": 26,
+            "name": "formValidity",
+            "description": "Validando dados de um formulário de criação de conta, com Validity State"
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "",
+            "codeUrl": "https://github.com/maxsueldev/formValidity"
         }
     ]
 }
