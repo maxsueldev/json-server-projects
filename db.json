@@ -125,7 +125,7 @@
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "",
             "codeUrl": "https://github.com/maxsueldev/Movies-Info",
-            "homepage": "https://movies-info-max.vercel.app",
+            "homepage": "https://movies-info-max.vercel.app"
         },
         {
             "id": 16,
@@ -190,7 +190,7 @@
         {
             "id": 24,
             "name": "randomUsersAPI",
-            "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB"
+            "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB",
             "techs": ["JavaScript"],
             "imageUrl": "",
             "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB"
@@ -198,7 +198,7 @@
         {
             "id": 25,
             "name": "REST-CRUD-API-with-NodeJS-Express-MongoDB",
-            "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)"
+            "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript", "Express", "MongoDB"],
             "imageUrl": "",
             "codeUrl": "https://github.com/maxsueldev/randomUsersAPI"
@@ -206,7 +206,7 @@
         {
             "id": 26,
             "name": "formValidity",
-            "description": "Validando dados de um formulário de criação de conta, com Validity State"
+            "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "",
             "codeUrl": "https://github.com/maxsueldev/formValidity"
