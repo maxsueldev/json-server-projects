@@ -30,9 +30,9 @@
             "id": 3,
             "name": "relogioDigital",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/relogioDigital.png",
             "codeUrl": "https://github.com/maxsueldev/relogioDigital",
-            "homepage": "https://relogio-digital-max.vercel.app /"
+            "homepage": "https://relogio-digital-max.vercel.app/"
         },
         {
             "id": 4,
