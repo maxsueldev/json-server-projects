@@ -22,7 +22,7 @@
             "id": 2,
             "name": "escolaCreative",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/escolaCreative",
             "homepage": "https://escola-creative-max.vercel.app/"
         },
@@ -30,7 +30,7 @@
             "id": 3,
             "name": "relogioDigital",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/relogioDigital",
             "homepage": "https://relogio-digital-max.vercel.app /"
         },
@@ -38,7 +38,7 @@
             "id": 4,
             "name": "dominoJS",
             "techs": ["JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/dominoJS"
         },
         {
@@ -46,7 +46,7 @@
             "name": "CalculatorJS",
             "description": "CalculatorJS é uma calculadora que usa elementos da DOM para realizar cálculos básicos, assim como uma calculadora de bolso comum, usando HTML, CSS e JavaScript ",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/CalculatorJS",
             "homepage": "https://calculator-js-max.vercel.app/"
         },
@@ -54,7 +54,7 @@
             "id": 6,
             "name": "vidflow",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/vidflow",
             "homepage": "https://vidflow-max.vercel.app/"
         },
@@ -63,14 +63,14 @@
             "name": "swAPIData",
             "description": "swAPIData é um projeto envolvendo uma API do Star Wars, onde utilizo o Axios com requisição GET para pegar dados e exibí-los na tela ",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/swAPIData"
         },
         {
             "id": 8,
             "name": "vamos-mudar-o-mundo",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/vamos-mudar-o-mundo",
             "homepage": "https://vamos-mudar-o-mundo-max.vercel.app/"
         },
@@ -78,7 +78,7 @@
             "id": 9,
             "name": "vamos-mudar-o-mundo-blog",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/blog-vamos-mudar-o-mundo",
             "homepage": "https://blog-vamos-mudar-o-mundo-max.vercel.app/"
         },
@@ -86,7 +86,7 @@
             "id": 10,
             "name": "pets-blog",
             "techs": ["HTML", "CSS", "JavaScript", "Firebase"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/pets-blog",
             "homepage": "https://pets-blog-max.vercel.app/"
         },
@@ -94,28 +94,28 @@
             "id": 11,
             "name": "skateshop",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/skateshop"
         },
         {
             "id": 12,
             "name": "photographer-portfolio",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/photographer-portfolio"
         },
         {
             "id": 13,
             "name": "contagemRegressiva",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/contagemRegressiva"
         },
         {
             "id": 14,
             "name": "parallax-effect",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/parallax-effect",
             "homepage": "https://parallax-effect-max.vercel.app"
         },
@@ -123,7 +123,7 @@
             "id": 15,
             "name": "Movies-Info",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/Movies-Info",
             "homepage": "https://movies-info-max.vercel.app"
         },
@@ -131,28 +131,28 @@
             "id": 16,
             "name": "modal-login-sem-bootstrap",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/modal-login-sem-bootstrap"
         },
         {
             "id": 17,
             "name": "maxJobs-Form",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/maxJobs-Form"
         },
         {
             "id": 18,
             "name": "virtualKeyboard",
             "techs": ["HTML", "CSS", "JavaScript", "SASS"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/virtualKeyboard"
         },
         {
             "id": 19,
             "name": "frutas-frutos",
             "techs": ["HTML", "CSS"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/frutas-frutos",
             "homepage": "https://frutas-frutos-max.vercel.app"
         },
@@ -160,7 +160,7 @@
             "id": 20,
             "name": "AluraSPA",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/AluraSPA",
             "homepage": "https://alura-spa-max.vercel.app"
         },
@@ -168,7 +168,7 @@
             "id": 21,
             "name": "barbearia-alura",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/barbearia-alura",
             "homepage": "https://barbearia-alura-max.vercel.app"
         },
@@ -177,14 +177,14 @@
             "name": "List-Of-Popular-Games",
             "description": "Projeto para prática do uso de manipulação de objetos e da DOM, com dados estáticos",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/List-Of-Popular-Games"
         },
         {
             "id": 23,
             "name": "bikcraft",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/bikcraft"
         },
         {
@@ -192,7 +192,7 @@
             "name": "randomUsersAPI",
             "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB",
             "techs": ["JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB"
         },
         {
@@ -200,7 +200,7 @@
             "name": "REST-CRUD-API-with-NodeJS-Express-MongoDB",
             "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript", "Express", "MongoDB"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/randomUsersAPI"
         },
         {
@@ -208,7 +208,7 @@
             "name": "formValidity",
             "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
             "codeUrl": "https://github.com/maxsueldev/formValidity"
         }
     ]
