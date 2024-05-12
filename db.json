@@ -21,6 +21,7 @@
         {
             "id": 2,
             "name": "escolaCreative",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/escolaCreative.png",
             "codeUrl": "https://github.com/maxsueldev/escolaCreative",
@@ -29,6 +30,7 @@
         {
             "id": 3,
             "name": "relogioDigital",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/relogioDigital.png",
             "codeUrl": "https://github.com/maxsueldev/relogioDigital",
@@ -40,7 +42,8 @@
             "description": "dominoJS é um jogo interativo de dominó para dois jogadores, em JavaScript e executado direto no console, utilizando Node e Yarn com a dependência Readline para interface de captura dos nomes dos jogadores ",
             "techs": ["JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/dominoJS.png",
-            "codeUrl": "https://github.com/maxsueldev/dominoJS"
+            "codeUrl": "https://github.com/maxsueldev/dominoJS",
+            "homepage": ""
         },
         {
             "id": 5,
@@ -54,6 +57,7 @@
         {
             "id": 6,
             "name": "vidflow",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/vidFlow.png",
             "codeUrl": "https://github.com/maxsueldev/vidflow",
@@ -65,11 +69,13 @@
             "description": "swAPIData é um projeto envolvendo uma API do Star Wars, onde utilizo o Axios com requisição GET para pegar dados e exibí-los na tela ",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/swAPIData.png",
-            "codeUrl": "https://github.com/maxsueldev/swAPIData"
+            "codeUrl": "https://github.com/maxsueldev/swAPIData",
+            "homepage": ""
         },
         {
             "id": 8,
             "name": "vamos-mudar-o-mundo",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/vamos-mudar-o-mundo.png",
             "codeUrl": "https://github.com/maxsueldev/vamos-mudar-o-mundo",
@@ -78,6 +84,7 @@
         {
             "id": 9,
             "name": "vamos-mudar-o-mundo-blog",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/vamos-mudar-o-mundo-blog.png",
             "codeUrl": "https://github.com/maxsueldev/blog-vamos-mudar-o-mundo",
@@ -86,6 +93,7 @@
         {
             "id": 10,
             "name": "pets-blog",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "Firebase"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/pets-blog.png",
             "codeUrl": "https://github.com/maxsueldev/pets-blog",
@@ -94,27 +102,34 @@
         {
             "id": 11,
             "name": "skateshop",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/skateshop.png",
-            "codeUrl": "https://github.com/maxsueldev/skateshop"
+            "codeUrl": "https://github.com/maxsueldev/skateshop",
+            "homepage": ""
         },
         {
             "id": 12,
             "name": "photographer-portfolio",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/photographer-portfolio.png",
-            "codeUrl": "https://github.com/maxsueldev/photographer-portfolio"
+            "codeUrl": "https://github.com/maxsueldev/photographer-portfolio",
+            "homepage": ""
         },
         {
             "id": 13,
             "name": "contagemRegressiva",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/contagemRegressiva.png",
-            "codeUrl": "https://github.com/maxsueldev/contagemRegressiva"
+            "codeUrl": "https://github.com/maxsueldev/contagemRegressiva",
+            "homepage": ""
         },
         {
             "id": 14,
             "name": "parallax-effect",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/parallax-effect.png",
             "codeUrl": "https://github.com/maxsueldev/parallax-effect",
@@ -123,6 +138,7 @@
         {
             "id": 15,
             "name": "Movies-Info",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/movies-info.png",
             "codeUrl": "https://github.com/maxsueldev/Movies-Info",
@@ -131,27 +147,34 @@
         {
             "id": 16,
             "name": "modal-login-sem-bootstrap",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/modal-login-sem-bootstrap.png",
-            "codeUrl": "https://github.com/maxsueldev/modal-login-sem-bootstrap"
+            "codeUrl": "https://github.com/maxsueldev/modal-login-sem-bootstrap",
+            "homepage": ""
         },
         {
             "id": 17,
             "name": "maxJobs-Form",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/maxJobs-form.png",
-            "codeUrl": "https://github.com/maxsueldev/maxJobs-Form"
+            "codeUrl": "https://github.com/maxsueldev/maxJobs-Form",
+            "homepage": ""
         },
         {
             "id": 18,
             "name": "virtualKeyboard",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "SASS"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/virtualKeyboard.png",
-            "codeUrl": "https://github.com/maxsueldev/virtualKeyboard"
+            "codeUrl": "https://github.com/maxsueldev/virtualKeyboard",
+            "homepage": ""
         },
         {
             "id": 19,
             "name": "frutas-frutos",
+            "description": "",
             "techs": ["HTML", "CSS"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/frutas-frutos.png",
             "codeUrl": "https://github.com/maxsueldev/frutas-frutos",
@@ -160,6 +183,7 @@
         {
             "id": 20,
             "name": "AluraSPA",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/alura-spa.png",
             "codeUrl": "https://github.com/maxsueldev/AluraSPA",
@@ -168,6 +192,7 @@
         {
             "id": 21,
             "name": "barbearia-alura",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/barbearia-alura.png",
             "codeUrl": "https://github.com/maxsueldev/barbearia-alura",
@@ -179,14 +204,17 @@
             "description": "Projeto para prática do uso de manipulação de objetos e da DOM, com dados estáticos",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/list-of-popular-games.png",
-            "codeUrl": "https://github.com/maxsueldev/List-Of-Popular-Games"
+            "codeUrl": "https://github.com/maxsueldev/List-Of-Popular-Games",
+            "homepage": ""
         },
         {
             "id": 23,
             "name": "bikcraft",
+            "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/bikcraft.png",
-            "codeUrl": "https://github.com/maxsueldev/bikcraft"
+            "codeUrl": "https://github.com/maxsueldev/bikcraft",
+            "homepage": ""
         },
         {
             "id": 24,
@@ -194,7 +222,8 @@
             "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB",
             "techs": ["JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/random-users-api.png",
-            "codeUrl": "https://github.com/maxsueldev/randomUsersAPI"
+            "codeUrl": "https://github.com/maxsueldev/randomUsersAPI",
+            "homepage": ""
         },
         {
             "id": 25,
@@ -202,7 +231,8 @@
             "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript", "Express", "MongoDB"],
             "imageUrl": "",
-            "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB"
+            "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB",
+            "homepage": ""
         },
         {
             "id": 26,
@@ -210,7 +240,8 @@
             "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/form-validity.png",
-            "codeUrl": "https://github.com/maxsueldev/formValidity"
+            "codeUrl": "https://github.com/maxsueldev/formValidity",
+            "homepage": ""
         }
     ]
 }
