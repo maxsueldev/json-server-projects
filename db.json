@@ -14,7 +14,7 @@
             "name": "githubAPIProfile",
             "description": "Consumo da API do GitHub com busca e filtro de projetos",
             "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/githubAPIProfile.png",
             "codeUrl": "https://github.com/maxsueldev/githubAPIProfile",
             "homepage": "https://github-api-profile-max.vercel.app/"
         },
