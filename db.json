@@ -6,7 +6,7 @@
             "description": "Portfólio profissional desenvolvido com ReactJS",
             "techs": ["HTML", "CSS", "JavaScript", "React", "StyledComponents"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/portfolio-maxsuel.png",
-            "codeUrl": "https://github.com/maxsueldev/portfolio",
+            "codeUrl": "https://github.com/maxsueldev/portfolio-website",
             "homepage": "https://portfolio-maxsuel.vercel.app/"
         },
         {
