@@ -22,7 +22,7 @@
             "id": 2,
             "name": "escolaCreative",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/escolaCreative.png",
             "codeUrl": "https://github.com/maxsueldev/escolaCreative",
             "homepage": "https://escola-creative-max.vercel.app/"
         },
