@@ -194,7 +194,7 @@
             "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB",
             "techs": ["JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
-            "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB"
+            "codeUrl": "https://github.com/maxsueldev/randomUsersAPI"
         },
         {
             "id": 25,
@@ -202,7 +202,7 @@
             "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript", "Express", "MongoDB"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/",
-            "codeUrl": "https://github.com/maxsueldev/randomUsersAPI"
+            "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB"
         },
         {
             "id": 26,
