@@ -21,7 +21,7 @@
         {
             "id": 2,
             "name": "escolaCreative",
-            "description": "",
+            "description": "Projeto desenvolvido para uma escola de inglês e informática",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/escolaCreative.png",
             "codeUrl": "https://github.com/maxsueldev/escolaCreative",
@@ -30,7 +30,7 @@
         {
             "id": 3,
             "name": "relogioDigital",
-            "description": "",
+            "description": "Projeto com diferentes usabilidades de data e hora como pomodoro, relógios digital e analógico",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/relogioDigital.png",
             "codeUrl": "https://github.com/maxsueldev/relogioDigital",
@@ -57,7 +57,7 @@
         {
             "id": 6,
             "name": "vidflow",
-            "description": "",
+            "description": "Consumo de arquivo JSON como uma API de vídeos",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/vidFlow.png",
             "codeUrl": "https://github.com/maxsueldev/vidflow",
@@ -75,7 +75,7 @@
         {
             "id": 8,
             "name": "vamos-mudar-o-mundo",
-            "description": "",
+            "description": "Projeto criado para uma palestrante sobre temas que envolvem empreendedorismo",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/vamos-mudar-o-mundo.png",
             "codeUrl": "https://github.com/maxsueldev/vamos-mudar-o-mundo",
@@ -84,7 +84,7 @@
         {
             "id": 9,
             "name": "vamos-mudar-o-mundo-blog",
-            "description": "",
+            "description": "Blog criado para uma palestrante sobre temas que envolvem empreendedorismo",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/vamos-mudar-o-mundo-blog.png",
             "codeUrl": "https://github.com/maxsueldev/blog-vamos-mudar-o-mundo",
