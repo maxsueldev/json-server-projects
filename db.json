@@ -38,6 +38,33 @@
         },
         {
             "id": 4,
+            "name": "professorInformatica",
+            "description": "Website criado com o intuito de ensinar Informática autonomamente",
+            "techs": ["JavaScript", "React", "StyledComponents"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/professorInformatica.png",
+            "codeUrl": "https://github.com/maxsueldev/professorInformatica",
+            "homepage": ""
+        },
+        {
+            "id": 5,
+            "name": "costs",
+            "description": "Projeto desenvolvido com o curso de React do canal do Youtube Hora de Codar",
+            "techs": ["JavaScript", "React", "StyledComponents"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/costs.png",
+            "codeUrl": "https://github.com/maxsueldev/costs",
+            "homepage": ""
+        },
+        {
+            "id": 6,
+            "name": "visual-clone-instagram",
+            "description": "Parte visual de feeds da rede social Instagram",
+            "techs": ["JavaScript", "React", "StyledComponents"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/visualInstagram.png",
+            "codeUrl": "https://github.com/maxsueldev/visual-clone-instagram",
+            "homepage": "https://visual-clone-instagram-max.vercel.app/"
+        },
+        {
+            "id": 7,
             "name": "dominoJS",
             "description": "dominoJS é um jogo interativo de dominó para dois jogadores, em JavaScript e executado direto no console, utilizando Node e Yarn com a dependência Readline para interface de captura dos nomes dos jogadores ",
             "techs": ["JavaScript"],
@@ -46,7 +73,7 @@
             "homepage": ""
         },
         {
-            "id": 5,
+            "id": 8,
             "name": "CalculatorJS",
             "description": "CalculatorJS é uma calculadora que usa elementos da DOM para realizar cálculos básicos, assim como uma calculadora de bolso comum, usando HTML, CSS e JavaScript ",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -55,7 +82,7 @@
             "homepage": "https://calculator-js-max.vercel.app/"
         },
         {
-            "id": 6,
+            "id": 9,
             "name": "vidflow",
             "description": "Consumo de arquivo JSON como uma API de vídeos",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -64,7 +91,7 @@
             "homepage": "https://vidflow-max.vercel.app/"
         },
         {
-            "id": 7,
+            "id": 10,
             "name": "swAPIData",
             "description": "swAPIData é um projeto envolvendo uma API do Star Wars, onde utilizo o Axios com requisição GET para pegar dados e exibí-los na tela ",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -73,7 +100,7 @@
             "homepage": ""
         },
         {
-            "id": 8,
+            "id": 11,
             "name": "vamos-mudar-o-mundo",
             "description": "Projeto criado para uma palestrante sobre temas que envolvem empreendedorismo",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
@@ -82,7 +109,7 @@
             "homepage": "https://vamos-mudar-o-mundo-max.vercel.app/"
         },
         {
-            "id": 9,
+            "id": 12,
             "name": "vamos-mudar-o-mundo-blog",
             "description": "Blog criado para uma palestrante sobre temas que envolvem empreendedorismo",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
@@ -91,7 +118,7 @@
             "homepage": "https://blog-vamos-mudar-o-mundo-max.vercel.app/"
         },
         {
-            "id": 10,
+            "id": 13,
             "name": "pets-blog",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "Firebase"],
@@ -100,7 +127,7 @@
             "homepage": "https://pets-blog-max.vercel.app/"
         },
         {
-            "id": 11,
+            "id": 14,
             "name": "skateshop",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -109,7 +136,7 @@
             "homepage": ""
         },
         {
-            "id": 12,
+            "id": 15,
             "name": "photographer-portfolio",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
@@ -118,16 +145,16 @@
             "homepage": ""
         },
         {
-            "id": 13,
+            "id": 16,
             "name": "contagemRegressiva",
-            "description": "",
+            "description": "Contagem regressiva para lançamento futuro de produto ",
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/contagemRegressiva.png",
             "codeUrl": "https://github.com/maxsueldev/contagemRegressiva",
             "homepage": ""
         },
         {
-            "id": 14,
+            "id": 17,
             "name": "parallax-effect",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
@@ -136,7 +163,7 @@
             "homepage": "https://parallax-effect-max.vercel.app"
         },
         {
-            "id": 15,
+            "id": 18,
             "name": "Movies-Info",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -145,7 +172,7 @@
             "homepage": "https://movies-info-max.vercel.app"
         },
         {
-            "id": 16,
+            "id": 19,
             "name": "modal-login-sem-bootstrap",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -154,7 +181,7 @@
             "homepage": ""
         },
         {
-            "id": 17,
+            "id": 20,
             "name": "maxJobs-Form",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -163,7 +190,7 @@
             "homepage": ""
         },
         {
-            "id": 18,
+            "id": 21,
             "name": "virtualKeyboard",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "SASS"],
@@ -172,7 +199,7 @@
             "homepage": ""
         },
         {
-            "id": 19,
+            "id": 22,
             "name": "frutas-frutos",
             "description": "",
             "techs": ["HTML", "CSS"],
@@ -181,7 +208,7 @@
             "homepage": "https://frutas-frutos-max.vercel.app"
         },
         {
-            "id": 20,
+            "id": 23,
             "name": "AluraSPA",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -190,7 +217,7 @@
             "homepage": "https://alura-spa-max.vercel.app"
         },
         {
-            "id": 21,
+            "id": 24,
             "name": "barbearia-alura",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -199,7 +226,7 @@
             "homepage": "https://barbearia-alura-max.vercel.app"
         },
         {
-            "id": 22,
+            "id": 25,
             "name": "List-Of-Popular-Games",
             "description": "Projeto para prática do uso de manipulação de objetos e da DOM, com dados estáticos",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -208,7 +235,7 @@
             "homepage": ""
         },
         {
-            "id": 23,
+            "id": 26,
             "name": "bikcraft",
             "description": "",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
@@ -217,25 +244,25 @@
             "homepage": ""
         },
         {
-            "id": 24,
+            "id": 27,
             "name": "randomUsersAPI",
-            "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB",
+            "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/prints/random-users-api.png",
             "codeUrl": "https://github.com/maxsueldev/randomUsersAPI",
             "homepage": ""
         },
         {
-            "id": 25,
+            "id": 28,
             "name": "REST-CRUD-API-with-NodeJS-Express-MongoDB",
-            "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
+            "description": "Creating a REST API for a user CRUD with NodeJS, Express and MongoDB",
             "techs": ["JavaScript", "Express", "MongoDB"],
             "imageUrl": "",
             "codeUrl": "https://github.com/maxsueldev/REST-CRUD-API-with-NodeJS-Express-MongoDB",
             "homepage": ""
         },
         {
-            "id": 26,
+            "id": 29,
             "name": "formValidity",
             "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],
